@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am an Information Systems Engineering Junior student at Piri Reis University. I am a software engineer who is interested in full-stack development<br>More details: [ardabzlk.dev](https://ardabozlak.dev/)
+I am an Information Systems Engineer
 
 
 ## 🌐 Socials:
